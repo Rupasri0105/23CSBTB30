@@ -9,3 +9,5 @@
 4.[https://github.com/Rupasri0105/23CSBTB30/blob/main/Part2.ipynb]
 
 5.[https://github.com/Rupasri0105/23CSBTB30/blob/main/Part_3.ipynb]
+
+6.[https://github.com/Rupasri0105/23CSBTB30/blob/main/assignment2.ipynb]
