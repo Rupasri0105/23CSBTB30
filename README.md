@@ -16,3 +16,5 @@
 
 8.[https://github.com/Rupasri0105/23CSBTB30/blob/main/assignment5.ipynb]
 
+9.[https://github.com/Rupasri0105/23CSBTB30/blob/main/lab_30_08_24.ipynb]
+
