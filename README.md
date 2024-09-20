@@ -18,3 +18,5 @@
 
 9.[https://github.com/Rupasri0105/23CSBTB30/blob/main/lab_30_08_24.ipynb]
 
+10.[https://github.com/Rupasri0105/23CSBTB30/blob/main/20_09_2024.ipynb]
+
