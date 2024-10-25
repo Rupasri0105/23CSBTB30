@@ -21,3 +21,5 @@
 10.[https://github.com/Rupasri0105/23CSBTB30/blob/main/20_09_2024.ipynb]
 
 11.[https://github.com/Rupasri0105/23CSBTB30/blob/main/Assignment_SV.ipynb]
+
+12[https://github.com/Rupasri0105/23CSBTB30/blob/main/diabetes.ipynb]
