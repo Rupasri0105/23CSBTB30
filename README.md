@@ -25,3 +25,5 @@
 12[https://github.com/Rupasri0105/23CSBTB30/blob/main/diabetes.ipynb]
 
 13.[https://github.com/Rupasri0105/23CSBTB30/blob/main/KNN.ipynb]
+
+14.[https://github.com/Rupasri0105/23CSBTB30/blob/main/Random_Forest.ipynb]
