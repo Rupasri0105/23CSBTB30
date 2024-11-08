@@ -27,3 +27,5 @@
 13.[https://github.com/Rupasri0105/23CSBTB30/blob/main/KNN.ipynb]
 
 14.[https://github.com/Rupasri0105/23CSBTB30/blob/main/Random_Forest.ipynb]
+
+15.[https://github.com/Rupasri0105/23CSBTB30/blob/main/AIML_LAB_EXAM_QUS_2(LINEARREGRESSION).ipynb]
